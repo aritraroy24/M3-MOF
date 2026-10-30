@@ -53,6 +53,16 @@ python analysis/analyse_uvvis.py
 
 The reports also need `reportlab` (`python build_reports.py`). To simulate the OT-2 protocol, use `opentrons<9`: `opentrons_simulate -L labware ot2_protocol.py`.
 
+## Team MOFKeKing
+
+| Member | Email | Links |
+|---|---|---|
+| Aritra Roy | [contact@aritraroy.live](mailto:contact@aritraroy.live) | [aritraroy.live](https://aritraroy.live), GitHub [@aritraroy24](https://github.com/aritraroy24) |
+| Piyush Ranjan Maharana | [piyushmaharana15@gmail.com](mailto:piyushmaharana15@gmail.com) | [catastropiyush.github.io](https://catastropiyush.github.io), GitHub [@catastropiyush](https://github.com/catastropiyush) |
+| Tarak Nath Das | [dastaraknath4@gmail.com](mailto:dastaraknath4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tarak-nath-das-4362251b7/) |
+
+Thanks to the UZH HTEL team for running the OT-2, oven and UV–Vis steps.
+
 ## AI assistance
 
 We used Claude Opus 5.5 (Anthropic) to help with the plate design calculations, the OT-2 protocol, the UV–Vis analysis code and figures, the submission reports and the presentation. The team reviewed and checked all of its output.
